@@ -27,7 +27,7 @@ ldesc += "\n\n" + read_file('CHANGES')
 
 setup(
     name='nodeenv',
-    version=nodeenv_version,
+    version=nodeenv_version + '+chevah1',
     url='https://github.com/ekalinin/nodeenv',
     license='BSD',
     author='Eugene Kalinin',
